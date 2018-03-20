@@ -43,7 +43,6 @@ h1 {
   text-transform: uppercase;
   text-align: center;
   padding: 20px 0 20px;
-  width: 375px;
 }
 
 h2 {
@@ -61,33 +60,3 @@ img {
   overflow: hidden;
 }
 
-
-/*div {
-  float: left;
-}
-
-img {
-  float: left;
-  width: 375px;
-}
-
-h1 {
-  text-transform: uppercase;
-  margin: auto;
-}
-
-h2 {
-  position: absolute;
-  font-size: 2em;
-  font-family: serif;
-  padding: 25px;
-
-}
-
-.container {
-  position: relative;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-*/
